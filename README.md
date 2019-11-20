@@ -62,10 +62,32 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(32).pdf" style="text-decoration:none;">Supervised and Unsupervised Pattern Recognition: Feature Extraction and Computational Intelligence</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(33).pdf" style="text-decoration:none;">Data Analysis and Pattern Recognition in Multiple Databases</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(34).pdf" style="text-decoration:none;">Correlation Pattern Recognition </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(35).pdf" style="text-decoration:none;">Data Complexity in Pattern Recognition</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(36).pdf" style="text-decoration:none;">Evolutionary Synthesis of Pattern Recognition Systems</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(37).pdf" style="text-decoration:none;">Face recognition using statistical adapted local binary patterns</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(38).pdf" style="text-decoration:none;">Fine-Needle Biopsy of Superficial and Deep Masses: Interventional Approach and Interpretation Methodology by Pattern Recognition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(39).pdf" style="text-decoration:none;">Handbook of Geometric Computing: Applications in Pattern Recognition, Computer Vision, Neuralcomputing, and Robotics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(40).rar" style="text-decoration:none;">Handbook of Pattern Recognition and Computer Vision</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(41).pdf" style="text-decoration:none;">Scalable Pattern Recognition Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(42).pdf" style="text-decoration:none;">Neuromorphic computational models for machine learning and pattern recognition from multi-modal time-series data</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(43).pdf" style="text-decoration:none;">Similarity-Based Pattern Analysis and Recognition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(44).pdf" style="text-decoration:none;">Structural Pattern Recognition with Graph Edit Distance: Approximation Algorithms and Applications</a></b></li>
 
 
 
