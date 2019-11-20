@@ -89,6 +89,18 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(44).pdf" style="text-decoration:none;">Structural Pattern Recognition with Graph Edit Distance: Approximation Algorithms and Applications</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(45).pdf" style="text-decoration:none;">Artificial Neural Networks in Pattern Recognition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(46).pdf" style="text-decoration:none;">Evolution of Spiking Neural Networks for Temporal Pattern Recognition and Animat Control</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(47).pdf" style="text-decoration:none;">On Statistical Pattern Recognition in Independent Component Analysis Mixture Modelling</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(48).pdf" style="text-decoration:none;">Pattern Recognition on Oriented Matroids</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(49).pdf" style="text-decoration:none;">Syntactic Pattern Recognition, Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(50).pdf" style="text-decoration:none;">Type-2 Fuzzy Graphical Models for Pattern Recognition</a></b></li>
 
 
 
