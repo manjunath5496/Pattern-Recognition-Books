@@ -39,4 +39,35 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(21).pdf" style="text-decoration:none;">Support Vector Machines for Pattern Classification</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(22).pdf" style="text-decoration:none;">Error Estimation for Pattern Recognition</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(23).pdf" style="text-decoration:none;">Feature Selection for Data and Pattern Recognition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(24).pdf" style="text-decoration:none;">Fuzzy Algorithms: With Applications to Image Processing and Pattern Recognition</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(25).pdf" style="text-decoration:none;">Granular Neural Networks, Pattern Recognition and Bioinformatics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(26).pdf" style="text-decoration:none;">Speech Pattern Recognition for Speech To Text Conversion</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(27).pdf" style="text-decoration:none;">Markov Models for Pattern Recognition: From Theory to Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(28).pdf" style="text-decoration:none;">Matrix Methods in Data Mining and Pattern Recognition</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(29).pdf" style="text-decoration:none;">Neural Networks in Organizational Research: Applying Pattern Recognition to the Analysis of Organizational Behavior</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(30).pdf" style="text-decoration:none;">Pattern Recognition in Computational Molecular Biology: Techniques and Approaches</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(31).pdf" style="text-decoration:none;">Statistical Pattern Recognition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pattern-Recognition-Books/blob/master/ptr(32).pdf" style="text-decoration:none;">Supervised and Unsupervised Pattern Recognition: Feature Extraction and Computational Intelligence</a></b></li>
+
+
+
+
+
+
+
+
+
 </ul>
